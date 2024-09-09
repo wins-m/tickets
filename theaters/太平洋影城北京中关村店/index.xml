@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>太平洋影城·北京中关村店 on 噗嗤！收藏集！</title>
-    <link>https://wins-m.github.io/tickets/theaters/%E5%A4%AA%E5%B9%B3%E6%B4%8B%E5%BD%B1%E5%9F%8E%E5%8C%97%E4%BA%AC%E4%B8%AD%E5%85%B3%E6%9D%91%E5%BA%97/</link>
+    <link>http://localhost:1313/tickets/theaters/%E5%A4%AA%E5%B9%B3%E6%B4%8B%E5%BD%B1%E5%9F%8E%E5%8C%97%E4%BA%AC%E4%B8%AD%E5%85%B3%E6%9D%91%E5%BA%97/</link>
     <description>Recent content in 太平洋影城·北京中关村店 on 噗嗤！收藏集！</description>
     <generator>Hugo</generator>
     <language>zh-cn</language>
     <lastBuildDate>Sat, 10 Jun 2023 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://wins-m.github.io/tickets/theaters/%E5%A4%AA%E5%B9%B3%E6%B4%8B%E5%BD%B1%E5%9F%8E%E5%8C%97%E4%BA%AC%E4%B8%AD%E5%85%B3%E6%9D%91%E5%BA%97/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tickets/theaters/%E5%A4%AA%E5%B9%B3%E6%B4%8B%E5%BD%B1%E5%9F%8E%E5%8C%97%E4%BA%AC%E4%B8%AD%E5%85%B3%E6%9D%91%E5%BA%97/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>银河护卫队3</title>
-      <link>https://wins-m.github.io/tickets/tickets/%E9%93%B6%E6%B2%B3%E6%8A%A4%E5%8D%AB%E9%98%9F3/</link>
+      <link>http://localhost:1313/tickets/tickets/%E9%93%B6%E6%B2%B3%E6%8A%A4%E5%8D%AB%E9%98%9F3/</link>
       <pubDate>Sat, 10 Jun 2023 00:00:00 +0000</pubDate>
-      <guid>https://wins-m.github.io/tickets/tickets/%E9%93%B6%E6%B2%B3%E6%8A%A4%E5%8D%AB%E9%98%9F3/</guid>
+      <guid>http://localhost:1313/tickets/tickets/%E9%93%B6%E6%B2%B3%E6%8A%A4%E5%8D%AB%E9%98%9F3/</guid>
       <description></description>
     </item>
     <item>
       <title>影</title>
-      <link>https://wins-m.github.io/tickets/tickets/%E5%BD%B1/</link>
+      <link>http://localhost:1313/tickets/tickets/%E5%BD%B1/</link>
       <pubDate>Sat, 06 Oct 2018 00:00:00 +0000</pubDate>
-      <guid>https://wins-m.github.io/tickets/tickets/%E5%BD%B1/</guid>
+      <guid>http://localhost:1313/tickets/tickets/%E5%BD%B1/</guid>
       <description></description>
     </item>
   </channel>
