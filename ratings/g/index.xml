@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>G on Dead Man&#39;s Brew</title>
+    <link>http://localhost:1313/ratings/g/</link>
+    <description>Recent content in G on Dead Man&#39;s Brew</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 21 Jul 2019 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/ratings/g/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Toy Story 4</title>
+      <link>http://localhost:1313/tickets/toy-story-4/</link>
+      <pubDate>Sun, 21 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tickets/toy-story-4/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Monsters University</title>
+      <link>http://localhost:1313/tickets/monsters-university/</link>
+      <pubDate>Sun, 21 Jul 2013 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tickets/monsters-university/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Monsters Inc 3d</title>
+      <link>http://localhost:1313/tickets/monsters-inc-3d/</link>
+      <pubDate>Mon, 24 Dec 2012 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tickets/monsters-inc-3d/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

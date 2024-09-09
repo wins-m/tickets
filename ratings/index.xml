@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ratings on Dead Man&#39;s Brew</title>
+    <link>http://localhost:1313/ratings/</link>
+    <description>Recent content in Ratings on Dead Man&#39;s Brew</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 07 Sep 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/ratings/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>PG-13</title>
+      <link>http://localhost:1313/ratings/pg-13/</link>
+      <pubDate>Sat, 07 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/ratings/pg-13/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>R</title>
+      <link>http://localhost:1313/ratings/r/</link>
+      <pubDate>Fri, 23 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/ratings/r/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>PG</title>
+      <link>http://localhost:1313/ratings/pg/</link>
+      <pubDate>Fri, 03 May 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/ratings/pg/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>G</title>
+      <link>http://localhost:1313/ratings/g/</link>
+      <pubDate>Sun, 21 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/ratings/g/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

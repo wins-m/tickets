@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Delft Theatre on 噗嗤！收藏集</title>
+    <link>//localhost:1313/theaters/delft-theatre/</link>
+    <description>Recent content in Delft Theatre on 噗嗤！收藏集</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 01 Jul 2011 00:00:00 +0000</lastBuildDate>
+    <atom:link href="//localhost:1313/theaters/delft-theatre/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Bad Teacher</title>
+      <link>//localhost:1313/tickets/bad-teacher/</link>
+      <pubDate>Fri, 01 Jul 2011 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tickets/bad-teacher/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>The Mechanic</title>
+      <link>//localhost:1313/tickets/the-mechanic/</link>
+      <pubDate>Sun, 13 Feb 2011 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tickets/the-mechanic/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>The Town</title>
+      <link>//localhost:1313/tickets/the-town/</link>
+      <pubDate>Sat, 25 Sep 2010 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tickets/the-town/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>The Last Song</title>
+      <link>//localhost:1313/tickets/the-last-song/</link>
+      <pubDate>Wed, 31 Mar 2010 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tickets/the-last-song/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Youth in Revolt</title>
+      <link>//localhost:1313/tickets/youth-in-revolt/</link>
+      <pubDate>Sat, 09 Jan 2010 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tickets/youth-in-revolt/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Saw VI</title>
+      <link>//localhost:1313/tickets/saw-6/</link>
+      <pubDate>Sat, 31 Oct 2009 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tickets/saw-6/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>The Final Destination</title>
+      <link>//localhost:1313/tickets/the-final-destination/</link>
+      <pubDate>Wed, 02 Sep 2009 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tickets/the-final-destination/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Funny People</title>
+      <link>//localhost:1313/tickets/funny-people-2/</link>
+      <pubDate>Sat, 22 Aug 2009 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tickets/funny-people-2/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Funny People</title>
+      <link>//localhost:1313/tickets/funny-people/</link>
+      <pubDate>Thu, 20 Aug 2009 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tickets/funny-people/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>The Proposal</title>
+      <link>//localhost:1313/tickets/the-proposal/</link>
+      <pubDate>Mon, 13 Jul 2009 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tickets/the-proposal/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>He&#39;s Just Not That Into You</title>
+      <link>//localhost:1313/tickets/hes-just-not-that-into-you/</link>
+      <pubDate>Tue, 10 Mar 2009 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tickets/hes-just-not-that-into-you/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Yes Man</title>
+      <link>//localhost:1313/tickets/yes-man/</link>
+      <pubDate>Sun, 28 Dec 2008 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tickets/yes-man/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Traitor</title>
+      <link>//localhost:1313/tickets/traitor/</link>
+      <pubDate>Sat, 06 Sep 2008 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tickets/traitor/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Hancock</title>
+      <link>//localhost:1313/tickets/hancock/</link>
+      <pubDate>Sat, 19 Jul 2008 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tickets/hancock/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Harold &amp; Kumar Escape from Guantanamo Bay</title>
+      <link>//localhost:1313/tickets/harold-kumar-guantanamo-bay/</link>
+      <pubDate>Sat, 10 May 2008 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tickets/harold-kumar-guantanamo-bay/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
