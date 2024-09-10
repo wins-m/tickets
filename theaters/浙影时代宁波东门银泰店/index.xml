@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>浙影时代·宁波东门银泰店 on 噗嗤！收藏集！</title>
-    <link>https://wins-m.github.io/tickets/theaters/%E6%B5%99%E5%BD%B1%E6%97%B6%E4%BB%A3%E5%AE%81%E6%B3%A2%E4%B8%9C%E9%97%A8%E9%93%B6%E6%B3%B0%E5%BA%97/</link>
+    <link>http://localhost:1313/tickets/theaters/%E6%B5%99%E5%BD%B1%E6%97%B6%E4%BB%A3%E5%AE%81%E6%B3%A2%E4%B8%9C%E9%97%A8%E9%93%B6%E6%B3%B0%E5%BA%97/</link>
     <description>Recent content in 浙影时代·宁波东门银泰店 on 噗嗤！收藏集！</description>
     <generator>Hugo</generator>
     <language>zh-cn</language>
     <lastBuildDate>Sun, 14 Aug 2022 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://wins-m.github.io/tickets/theaters/%E6%B5%99%E5%BD%B1%E6%97%B6%E4%BB%A3%E5%AE%81%E6%B3%A2%E4%B8%9C%E9%97%A8%E9%93%B6%E6%B3%B0%E5%BA%97/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tickets/theaters/%E6%B5%99%E5%BD%B1%E6%97%B6%E4%BB%A3%E5%AE%81%E6%B3%A2%E4%B8%9C%E9%97%A8%E9%93%B6%E6%B3%B0%E5%BA%97/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>断·桥</title>
-      <link>https://wins-m.github.io/tickets/tickets/%E6%96%AD%E6%A1%A5/</link>
+      <link>http://localhost:1313/tickets/tickets/%E6%96%AD%E6%A1%A5/</link>
       <pubDate>Sun, 14 Aug 2022 00:00:00 +0000</pubDate>
-      <guid>https://wins-m.github.io/tickets/tickets/%E6%96%AD%E6%A1%A5/</guid>
+      <guid>http://localhost:1313/tickets/tickets/%E6%96%AD%E6%A1%A5/</guid>
       <description></description>
     </item>
   </channel>
