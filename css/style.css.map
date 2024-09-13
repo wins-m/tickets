@@ -1,7 +1,7 @@
 {
 	"version": 3,
 	"file": "style.css",
-	"sourceRoot": "/Users/winston/mygitrep/tickets",
+	"sourceRoot": "/home/winston/mygitrep/tickets_",
 	"sources": [
 		"themes/tickets/assets/scss/main.scss",
 		"themes/tickets/assets/scss/helpers/variables.scss",
