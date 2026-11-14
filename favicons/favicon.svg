@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <path
+    fill="#030507"
+    fill-rule="evenodd"
+    d="M72,144 H440 A24,24 0 0 1 464,168 V344 A24,24 0 0 1 440,368 H72 A24,24 0 0 1 48,344 V168 A24,24 0 0 1 72,144 Z
+       M8,256 A40,40 0 1 0 88,256 A40,40 0 0 0 8,256 Z
+       M424,256 A40,40 0 1 0 504,256 A40,40 0 0 0 424,256 Z"
+  />
+  <line
+    x1="380"
+    y1="180"
+    x2="380"
+    y2="332"
+    stroke="#030507"
+    stroke-width="12"
+    stroke-linecap="round"
+    stroke-dasharray="18 16"
+  />
+</svg>
